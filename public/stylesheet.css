@@ -1,0 +1,23 @@
+#projectInfo {
+  display: block;
+  position: relative;
+}
+
+#parent {
+  text-align: center;
+}
+
+#campaign {
+  display: inline-block;
+  text-align: left;
+}
+
+#comment {
+  display: block;
+  text-align: left;
+}
+
+#updates {
+  display: block;
+  position: relative;
+}
